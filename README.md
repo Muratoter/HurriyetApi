@@ -40,4 +40,4 @@ android:name="android.permission.INTERNET"
 
 <h2><b>Ekran Görüntüsü</b></h2>
 
-[![Demo CountPages alpha](http://im.ezgif.com/tmp/ezgif-886684167.gif)](https://www.youtube.com/watch?v=Y3gi-XzieCE)
+[![Demo CountPages alpha](https://media.giphy.com/media/xTiN0P1WAF3y2cPyDu/source.gif)](https://www.youtube.com/watch?v=Y3gi-XzieCE)
